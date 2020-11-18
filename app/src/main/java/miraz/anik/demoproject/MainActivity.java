@@ -20,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
         app_layer.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
                 Intent intent = new Intent(MainActivity.this, Activity2.class);
                 startActivity(intent);
                 overridePendingTransition(R.transition.slide_in, R.transition.slide_out);
