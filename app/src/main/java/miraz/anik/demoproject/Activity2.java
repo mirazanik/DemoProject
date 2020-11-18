@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class Activity2 extends AppCompatActivity {
 
-    Toast toast;
+
     ImageView plus;
     ImageView minus;
     TextView count;
@@ -25,6 +25,7 @@ public class Activity2 extends AppCompatActivity {
         plus = findViewById(R.id.plus);
         minus = findViewById(R.id.minus);
         count = findViewById(R.id.count);
+
         plus.setOnClickListener(view -> count.setText(" " + ++counter));
         minus.setOnClickListener(view -> {
             if (counter > 0) count.setText(" " + --counter);
