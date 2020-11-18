@@ -299,9 +299,11 @@
                     android:layout_height="match_parent"
                     android:layout_gravity="center"
                     android:layout_marginStart="21dp"
+                    android:id="@+id/minus"
                     android:src="@drawable/ic_remove" />
 
                 <TextView
+                    android:id="@+id/count"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:layout_marginStart="10dp"
@@ -311,6 +313,7 @@
                     android:textStyle="bold" />
 
                 <ImageView
+                    android:id="@+id/plus"
                     android:contentDescription="@string/todo"
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
