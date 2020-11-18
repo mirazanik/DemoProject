@@ -9,7 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.DemoProject">
-        <activity android:name=".MainActivity"
+        <activity
+            android:name=".Activity2"
+            android:screenOrientation="portrait"
+            android:theme="@style/CollapsingTheme" />
+        <activity
+            android:name=".MainActivity"
             android:screenOrientation="portrait"
             android:theme="@style/CollapsingTheme">
             <intent-filter>

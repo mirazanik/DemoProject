@@ -42,6 +42,7 @@ dependencies {
 
     implementation "com.github.mancj:SlideUp-Android:2.2.8"
     implementation 'ru.ztrap:RxSlideUp2:2.0.1'
+
     implementation 'androidx.coordinatorlayout:coordinatorlayout:1.1.0'
     implementation 'com.google.android.material:material:1.2.1'
 //optional, for reactive listeners based on RxJava-2
