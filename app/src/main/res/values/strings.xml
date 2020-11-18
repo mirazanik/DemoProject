@@ -1,3 +1,40 @@
 <resources>
     <string name="app_name">DemoProject</string>
+    <string name="todo">TODO</string>
+    <string name="bdt_2_850">BDT. 2,850</string>
+    <string name="bdt_3_050">BDT. 3,050</string>
+    <string name="_25">25%</string>
+    <string name="description">TUINANLE Sandals Women 2020 New Sexy Open-toed Sandals Wedge Outdoor Cool Platform Shoes Ladies Beach Summer Sandalia Feminina</string>
+    <string name="_4_8">4.8</string>
+    <string name="_2_color_4_size">2 Color, 4 Size</string>
+    <string name="_85_ratings_98_reviews_80_orders">85 Ratings   98 Reviews   80 Orders</string>
+
+    <string name="description2">Description</string>
+    <string name="description3">Description</string>
+    <string name="description4">Description</string>
+    <string name="description5">Description</string>
+    <string name="view_full_description">View Full Description</string>
+    <string name="_2">2</string>
+    <string name="buy_now">Buy now</string>
+    <string name="add_to_cart">add to cart</string>
+    <string name="description0">Description</string>
+    <string name="cost_bdt_4000">Cost: BDT. 4000</string>
+    <string name="zdrop_premium_shipping">zDrop Premium Shipping</string>
+    <string name="estimated_delivery_7_15_days">Estimated Delivery: 7-15 days</string>
+    <string name="shipping">Shipping:</string>
+    <string name="_1">1</string>
+    <string name="quantity">Quantity</string>
+    <string name="xl">XL</string>
+    <string name="x">X</string>
+    <string name="m">M</string>
+    <string name="s">S</string>
+    <string name="size">Size</string>
+    <string name="color">Color</string>
+    <string name="bdt_2_850_bdt_1_261">BDT. 2,850 - BDT. 1,261</string>
+    <string name="product_option">Product Option</string>
+    <string name="wholesale_inquiry">Wholesale Inquiry</string>
+    <string name="faq">FAQ</string>
+    <string name="how_to_order">How to Order</string>
+    <string name="specifications">Specifications</string>
+    <string name="reviews">Reviews</string>
 </resources>

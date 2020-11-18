@@ -7,4 +7,22 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#965EFF</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorAccent">#FE4091</color>
+
+    <!--App Theme Background Color-->
+    <color name="colorToolBarBackground">@color/white</color>
+    <!--Title Bar Text Color-->
+    <color name="titleTextColor">#ffffff</color>
+    <!--Back Arrow Color-->
+    <color name="colorBackArrow">#ffffff</color>
+    <!--Menu Icon Color-->
+    <color name="menuIconColor">#ffffff</color>
+    <color name="background_grey">#DFDFDF</color>
+
+    <color name="view_color">#eaeaea</color>
+    <color name="transparent">#00000000</color>
+
 </resources>
